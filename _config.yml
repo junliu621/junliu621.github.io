@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jun Liu"
-description              : "Cancer Science Institute of Singapore, National University of Singapore"
+description              : #"Cancer Science Institute of Singapore, National University of Singapore"
 repository               : "junliu621/junliu621.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/junl2.jpg"
   bio              : "Postdoctoral Research Fellow"
   location         : "Singapore"
-  employer         : >- Cancer Science Institute of Singapore, National University of Singapore
+  # employer         : "Cancer Science Institute of Singapore, National University of Singapore"
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "junl_sg@nus.edu.sg"
