@@ -27,6 +27,10 @@ My research interests focus on AI-driven computational structural biology, inclu
 - *2025.06*: &nbsp;🎉 Received the <a href='https://www.nmrc.sg/grants/competitive-research-grants/of-yirg/'>OF-YIRG (Open Fund – Young Individual Research Grant) award from the National Medical Research Council (NMRC)</a> of Singapore — <a href='https://csi.nus.edu.sg/congratulations-on-the-nmrc-of-yirg-award-dr-jun-liu/'>my first independent, national-level research grant as a new investigator</a>.
 
 
+# 💰 Funding
+- Genome-Wide Antibody–Antigen Interaction Prediction Through Large Language Models. ***National Medical Research Council (NMRC), Singapore — Open Fund – Young Individual Research Grant (OF-YIRG)***. Award No. MOH-OFYIRG25jan-0011. 01 Aug 2025 – 31 Jul 2028 (**PI**). 
+
+
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
@@ -72,9 +76,6 @@ My research interests focus on AI-driven computational structural biology, inclu
 - Xiaogen Zhou, Chunxiang Peng, **Jun Liu**, Yang Zhang*, Guijun Zhang*.
 Underestimation-assisted global-local cooperative differential evolution and the application to protein structure prediction.
 ***IEEE Transactions on Evolutionary Computation***, 24(3): 536-550, 2020. <a href='https://ieeexplore.ieee.org/abstract/document/8821307/'>[Paper]</a>
-
-# 💰 Funding
-- Genome-Wide Antibody–Antigen Interaction Prediction Through Large Language Models. ***National Medical Research Council (NMRC), Singapore — Open Fund – Young Individual Research Grant (OF-YIRG)***. Award No. MOH-OFYIRG25jan-0011. 01 Aug 2025 – 31 Jul 2028 (**PI**). 
 
 
 # 🎖 Honors and Awards
