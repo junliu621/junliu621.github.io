@@ -24,7 +24,7 @@ My research interests focus on AI-driven computational structural biology, inclu
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉 Our PPLM paper on protein–protein interaction, affinity, and interface contact prediction has been accepted in Nature Communications.
-- *2025.06*: &nbsp;🎉 Received the <a href='https://www.nmrc.sg/grants/competitive-research-grants/of-yirg/'>OF-YIRG (Open Fund – Young Individual Research Grant) award from the National Medical Research Council (NMRC)</a> of Singapore — <a href='https://csi.nus.edu.sg/congratulations-on-the-nmrc-of-yirg-award-dr-jun-liu/'>my first independent, national-level research grant as a new investigator</a>.
+- *2025.06*: &nbsp;🎉 Received the <a href='https://www.nmrc.sg/grants/competitive-research-grants/of-yirg/'>OF-YIRG (Open Fund – Young Individual Research Grant)</a> award from the National Medical Research Council (NMRC) of Singapore — <a href='https://csi.nus.edu.sg/congratulations-on-the-nmrc-of-yirg-award-dr-jun-liu/'>my first independent, national-level research grant as a new investigator</a>.
 
 
 # 💰 Funding
