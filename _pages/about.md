@@ -23,8 +23,11 @@ My research interests focus on AI-driven computational structural biology, inclu
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉 Our PPLM paper on protein–protein interaction, affinity, and interface contact prediction has been accepted in Nature Communications.
+- *2025.06*: &nbsp;🎉 Received the <a href='https://zhanggroup.org/'>OF-YIRG (Open Fund – Young Individual Research Grant) award from the National Medical Research Council (NMRC)</a> of Singapore — <a href='https://www.nmrc.sg/grants/competitive-research-grants/of-yirg/'>my first independent, national-level research grant as a new investigator</a>.
+
+
+
 
 # 📝 Publications 
 
