@@ -79,8 +79,10 @@ Underestimation-assisted global-local cooperative differential evolution and the
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* 🥇 Ranked #1 in protein complex interface residue identification at <a href='https://predictioncenter.org/casp16/zscores_EMA.cgi'>CASP16</a> (group: MQA).
+- *2024* 🥇 Ranked #1 in QMODE 3 (MassiveFold model selection) for monomer at <a href='https://predictioncenter.org/casp16/zscores_EMA.cgi'>CASP16</a> (group: MQA).
+- *2024* 🥇 Ranked #1 in protein complex local quality assessment at <a href='https://predictioncenter.org/casp16/zscores_EMA.cgi'>CASP16</a> (group: GuijunLab-RocketX).
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
