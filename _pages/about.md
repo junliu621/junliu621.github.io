@@ -118,21 +118,30 @@ My research interests focus on AI-driven computational structural biology, inclu
 - *2024* 🥇 Ranked #1 in protein complex interface residue identification at <a href='https://predictioncenter.org/casp16/zscores_EMA.cgi'>CASP16</a> (group: MQA).
 - *2024* 🥇 Ranked #1 in QMODE 3 (MassiveFold model selection) for monomer at <a href='https://predictioncenter.org/casp16/zscores_EMA.cgi'>CASP16</a> (group: MQA).
 - *2022* 🥇 Ranked #1 in protein complex local quality assessment at <a href='https://predictioncenter.org/casp16/zscores_EMA.cgi'>CASP15</a> (group: GuijunLab-RocketX).
-- 
 - *2023* Outstanding Ph.D. Thesis Award, Zhejiang Society for Bioinformatics.
 - *2022* Top Ten Academic Stars (Graduate Students), Zhejiang University of Technology.
 - *2021* National Scholarship for Doctoral Students (China).
-- *2019* Second Prize, 16th “Challenge Cup” National Undergraduate Extracurricular Academic & Technology Competition (China). (Contributor rank: 1/8)
-- *2019* Gold Award, 5th Zhejiang “Internet+” Innovation and Entrepreneurship Competition (China). (Contributor rank: 1/11)
-- *2014* Third Prize, National Finals, China 3D Digitalization Innovation Design Competition (China). (Contributor rank: 3/3)
+- *2019* Second Prize, 16th “Challenge Cup” National Undergraduate Extracurricular Academic & Technology Competition (China). (Member rank: 1/8)
+- *2019* Gold Award, 5th Zhejiang “Internet+” Innovation and Entrepreneurship Competition (China). (Member rank: 1/11)
+- *2014* Third Prize, National Finals, China 3D Digitalization Innovation Design Competition (China). (Member rank: 3/3)
 
+# 🧾 Academic Service
+- Topic Editor, Frontiers Research Topic: Computer-Aided Approaches in Translational Structural Biology: Toward Future Biotechnological Applications (Frontiers in Chemical Biology).
+- Reviewer for Nature biotechnology, Nature machine intelligence, PloS one, etc.
+
+<!--
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
