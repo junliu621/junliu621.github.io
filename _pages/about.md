@@ -118,7 +118,7 @@ My research interests focus on AI-driven computational structural biology, inclu
 # 🎖 Honors and Awards
 - *2024* 🥇 Ranked #1 in protein complex interface residue identification at <a href='https://predictioncenter.org/casp16/zscores_EMA.cgi'>CASP16</a> (group: MQA).
 - *2024* 🥇 Ranked #1 in QMODE 3 (MassiveFold model selection) for monomer at <a href='https://predictioncenter.org/casp16/zscores_EMA.cgi'>CASP16</a> (group: MQA).
-- *2022* 🥇 Ranked #1 in protein complex local quality assessment at <a href='https://predictioncenter.org/casp16/zscores_EMA.cgi'>CASP15</a> (group: GuijunLab-RocketX).
+- *2022* 🥇 Ranked #1 in protein complex local quality assessment at <a href='https://predictioncenter.org/casp15/zscores_EMA.cgi'>CASP15</a> (group: GuijunLab-RocketX).
 - *2023* Outstanding Ph.D. Thesis Award, Zhejiang Society for Bioinformatics.
 - *2022* Top Ten Academic Stars (Graduate Students), Zhejiang University of Technology.
 - *2021* National Scholarship for Doctoral Students (China).
