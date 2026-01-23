@@ -38,10 +38,12 @@ My research interests focus on AI-driven computational structural biology, inclu
 † indicates equal contribution, * indicates the corresponding author.
 
 - ***Jun Liu***, Hungyu Chen, Yang Zhang*.
-A Corporative Language Model for Protein–Protein Interaction, Binding Affinity, and Interface Contact Prediction.
-***Nature Communications***, in press, 2026. <a href='https://zhanggroup.org/PPLM'>[Server]</a>
+  A Corporative Language Model for Protein–Protein Interaction, Binding Affinity, and Interface Contact Prediction.
+  ***Nature Communications***, in press, 2026. <a href='https://zhanggroup.org/PPLM'>[Server]</a>
 
-- ***Jun Liu***, Guangxing He, Kailong Zhao, Xiaogen Zhou, Guijun Zhang*. De novo protein structure prediction by model quality assessment dynamic feedback mechanism using deep learning. ***IEEE Transactions on Computational Biology and Bioinformatics***, 22(6): 3476-3485, 2025. <a href='https://pubmed.ncbi.nlm.nih.gov/41201924/'>[Paper]</a>
+- ***Jun Liu***, Guangxing He, Kailong Zhao, Xiaogen Zhou, Guijun Zhang*.
+  De novo protein structure prediction by model quality assessment dynamic feedback mechanism using deep learning.
+  ***IEEE Transactions on Computational Biology and Bioinformatics***, 22(6): 3476-3485, 2025. <a href='https://pubmed.ncbi.nlm.nih.gov/41201924/'>[Paper]</a>
 
 - Dong Liu, ***Jun Liu***, Haodong Wang, Fang Liang, Guijun Zhang*. DeepUMQA-X: Comprehensive and insightful estimation of model accuracy for protein single-chain and complex. ***Nucleic Acids Research***, 53(W1): W219–W227, 2025. 
 
