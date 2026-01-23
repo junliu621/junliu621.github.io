@@ -107,3 +107,21 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* --- Sidebar author alignment tweaks --- */
+/* Center avatar + name + bio/title */
+.sidebar .author__avatar,
+.sidebar .author__content {
+  text-align: center;
+}
+
+/* Ensure name is centered */
+.sidebar .author__name {
+  text-align: center;
+}
+
+/* Keep the icon/link list left-aligned */
+.sidebar .author__urls-wrapper,
+.sidebar .author__urls {
+  text-align: left;
+}
