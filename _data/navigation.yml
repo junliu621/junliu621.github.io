@@ -16,10 +16,4 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Academic Service"
-    url: "/#-academic service"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+    url: "/#-academic-service"
