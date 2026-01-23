@@ -94,7 +94,7 @@ My research interests focus on AI-driven computational structural biology, inclu
   A de novo protein structure prediction by iterative partition sampling, topology adjustment, and residue-level distance deviation optimization.
   ***Bioinformatics***, 38(1): 99-107, 2022. <a href='https://academic.oup.com/bioinformatics/article-abstract/38/1/99/6359814'>[Paper]</a>
 
-- Kailong Zhao, ***Jun Liu***, Xiaogen Zhou, Jianzhong Su*, Yang Zhang\*, Guijun Zhang\*.
+- Kailong Zhao, ***Jun Liu***, Xiaogen Zhou, Jianzhong Su\*, Yang Zhang\*, Guijun Zhang\*.
   MMpred: A distance-assisted multimodal conformation sampling for de novo protein structure prediction.
   ***Bioinformatics***, 37(23): 4350-4356, 2021. <a href='https://academic.oup.com/bioinformatics/article-abstract/37/23/4350/6311264'>[Paper]</a>
 
@@ -106,11 +106,11 @@ My research interests focus on AI-driven computational structural biology, inclu
   Adaptive differential evolution with information entropy-based mutation strategy.
   ***IEEE Access***, 9: 146783-146796, 2021. <a href='https://ieeexplore.ieee.org/abstract/document/9568913/'>[Paper]</a>
 
-- ***Jun Liu***, Xiaogen Zhou, Yang Zhang*, Guijun Zhang\*.
+- ***Jun Liu***, Xiaogen Zhou, Yang Zhang\*, Guijun Zhang\*.
   CGLFold: A contact-assisted de novo protein structure prediction using global exploration and loop perturbation sampling algorithm.
   ***Bioinformatics***, 36(8): 2443–2450, 2020. <a href='https://academic.oup.com/bioinformatics/article-abstract/36/8/2443/5682409'>[Paper]</a>
 
-- Xiaogen Zhou, Chunxiang Peng, ***Jun Liu***, Yang Zhang/*, Guijun Zhang\*.
+- Xiaogen Zhou, Chunxiang Peng, ***Jun Liu***, Yang Zhang\*, Guijun Zhang\*.
   Underestimation-assisted global-local cooperative differential evolution and the application to protein structure prediction.
   ***IEEE Transactions on Evolutionary Computation***, 24(3): 536-550, 2020. <a href='https://ieeexplore.ieee.org/abstract/document/8821307/'>[Paper]</a>
 
