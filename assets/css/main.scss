@@ -126,12 +126,18 @@ h1:before, .anchor:before {
   text-align: left;
 }
 
-/* Global font */
-body {
-  font-family: Arial, Helvetica, sans-serif;
+/* Force site-wide font override */
+html, body {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+body, p, li, a, span, div,
+button, input, select, textarea {
+  font-family: Arial, Helvetica, sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6,
-.site-title, .page__title, .archive__item-title {
-  font-family: Arial, Helvetica, sans-serif;
+.site-title, .page__title, .archive__item-title,
+.author__name, .author__bio {
+  font-family: Arial, Helvetica, sans-serif !important;
 }
