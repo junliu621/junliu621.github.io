@@ -66,11 +66,11 @@ My research interests focus on AI-driven computational structural biology, inclu
   CGLFold: A contact-assisted de novo protein structure prediction using global exploration and loop perturbation sampling algorithm.
   ***Bioinformatics***, 36(8): 2443–2450, 2020. <a href='https://academic.oup.com/bioinformatics/article-abstract/36/8/2443/5682409'>[Paper]</a>
 
-- Guangxing He†, **Jun Liu†***, Dong Liu, Guijun Zhang\*.
+- Guangxing He<sup>†</sup>, **Jun Liu<sup>†</sup>**, Dong Liu, Guijun Zhang\*.
   GraphGPSM: A global scoring model for protein structure using graph neural networks.
   ***Briefings in Bioinformatics***, 24(4): bbad219, 2023. <a href='https://academic.oup.com/bib/article/24/4/bbad219/7197734'>[Paper]</a>
 
-- Saisai Guo†, **Jun Liu†***, Xiaogen Zhou, Guijun Zhang\*.
+- Saisai Guo<sup>†</sup>, **Jun Liu<sup>†</sup>**, Xiaogen Zhou, Guijun Zhang\*.
   DeepUMQA: Ultrafast shape recognition-based protein model quality assessment using deep learning.
   ***Bioinformatics***, 38(7): 1895-1903, 2022. <a href='https://academic.oup.com/bioinformatics/article-abstract/38/7/1895/6520805'>[Paper]</a>
 
@@ -98,7 +98,7 @@ My research interests focus on AI-driven computational structural biology, inclu
   Underestimation-assisted global-local cooperative differential evolution and the application to protein structure prediction.
   ***IEEE Transactions on Evolutionary Computation***, 24(3): 536-550, 2020. <a href='https://ieeexplore.ieee.org/abstract/document/8821307/'>[Paper </a>
 
-<---
+<!--
 - Chunxiang Peng, Xiaogen Zhou, **Jun Liu**, Minghua Hou, Stan Z. Li, Guijun Zhang\*.
   Multiple conformational states assembly of multidomain proteins using evolutionary algorithm based on structural analogues and sequential homologues.
   ***Fundamental Research***, in press, 2024. <a href='https://www.sciencedirect.com/science/article/pii/S2667325824002103'>[Paper]</a>
