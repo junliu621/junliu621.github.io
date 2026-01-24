@@ -10,7 +10,7 @@ main:
     url: "/#-funding"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
