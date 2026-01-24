@@ -96,7 +96,7 @@ My research interests focus on AI-driven computational structural biology, inclu
 
 - Xiaogen Zhou, Chunxiang Peng, **Jun Liu**, Yang Zhang\*, Guijun Zhang\*.
   Underestimation-assisted global-local cooperative differential evolution and the application to protein structure prediction.
-  ***IEEE Transactions on Evolutionary Computation***, 24(3): 536-550, 2020. <a href='https://ieeexplore.ieee.org/abstract/document/8821307/'>[Paper </a>
+  ***IEEE Transactions on Evolutionary Computation***, 24(3): 536-550, 2020. <a href='https://ieeexplore.ieee.org/abstract/document/8821307/'>[Paper] </a>
 
 <!--
 - Chunxiang Peng, Xiaogen Zhou, **Jun Liu**, Minghua Hou, Stan Z. Li, Guijun Zhang\*.
