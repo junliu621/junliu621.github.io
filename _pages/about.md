@@ -23,7 +23,7 @@ My research interests focus on AI-driven computational structural biology, inclu
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉 Our PPLM paper on protein–protein interaction, affinity, and interface contact prediction has been accepted in Nature Communications.
+- *2026.01*: &nbsp;🎉 Our work on protein–protein interaction, affinity, and interface prediction has been accepted in Nature Communications.
 - *2025.09*: Invited to give a talk at the <a href='https://csi.nus.edu.sg/event/csi-research-meeting-5-sep-2025/'>CSI Research Meeting</a>, National University of Singapore (NUS).
 - *2025.06*: &nbsp;🎉 Received the <a href='https://www.nmrc.sg/grants/competitive-research-grants/of-yirg/'>OF-YIRG (Open Fund – Young Individual Research Grant)</a> award from the National Medical Research Council (NMRC) of Singapore — <a href='https://csi.nus.edu.sg/congratulations-on-the-nmrc-of-yirg-award-dr-jun-liu/'>my first independent, national-level research grant as a new investigator</a>.
 
@@ -39,7 +39,7 @@ My research interests focus on AI-driven computational structural biology, inclu
 † indicates equal contribution, * indicates the corresponding author.
 
 - **Jun Liu**, Hungyu Chen, Yang Zhang\*.
-  A Corporative Language Model for Protein–Protein Interaction, Binding Affinity, and Interface Contact Prediction.
+  A Paired Sequence Language Model for Protein-Protein Interaction Modeling.
   ***Nature Communications***, in press, 2026. <a href='https://zhanggroup.org/PPLM'>[Server]</a>
 
 - **Jun Liu**, Guangxing He, Kailong Zhao, Xiaogen Zhou, Guijun Zhang\*.
