@@ -39,8 +39,8 @@ My research interests focus on AI-driven computational structural biology, inclu
 † indicates equal contribution, * indicates the corresponding author.
 
 - **Jun Liu**, Hungyu Chen, Yang Zhang\*.
-  A paired sequence language model for protein-protein interaction modeling. Nat Commun (2026). https://doi.org/10.1038/s41467-026-70457-5
-  ***Nature Communications***, 2026, <a href='https://doi.org/10.1038/s41467-026-70457-5'>https://doi.org/10.1038/s41467-026-70457-5</a>. <a href='https://zhanggroup.org/PPLM'>[Server]</a> <a href='https://github.com/junliu621/PPLM'>[Source code]</a>
+  A paired sequence language model for protein-protein interaction modeling. 
+  ***Nature Communications***, <a href='https://doi.org/10.1038/s41467-026-70457-5'>https://doi.org/10.1038/s41467-026-70457-5</a>, 2026. <a href='https://zhanggroup.org/PPLM'>[Server]</a> <a href='https://github.com/junliu621/PPLM'>[Source code]</a>
 
 - **Jun Liu**, Guangxing He, Kailong Zhao, Xiaogen Zhou, Guijun Zhang\*.
   De novo protein structure prediction by model quality assessment dynamic feedback mechanism using deep learning.
