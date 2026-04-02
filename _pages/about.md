@@ -44,6 +44,7 @@ My research interests focus on AI-driven computational structural biology, inclu
   <li><strong>Puhuan Zhu</strong>, Faculty of Science, NUS (2025.10–present).</li>
   <li><strong>Roger Lim Bo Zu</strong>, School of Computing, NUS (2025.10–present).</li>
   <li><strong>Hungyu Chen</strong>, School of Computing, NUS (2024.04–2025.06).</li>
+  <li><strong>Edison Siow Xiong</strong>, School of Computing, NUS (2024.03–2025.06).</li>
 </ul>
 
 
