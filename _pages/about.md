@@ -31,15 +31,17 @@ My research interests focus on AI-driven computational structural biology, inclu
 # 💰 Funding
 - Genome-Wide Antibody–Antigen Interaction Prediction Through Large Language Models. **National Medical Research Council (NMRC), Singapore — Open Fund – Young Individual Research Grant (OF-YIRG)**. Award No. MOH-OFYIRG25jan-0011. 01 Aug 2025 – 31 Jul 2028 (**PI**). 
 
-# 🎓 Mentoring
-**Visiting PhD Students**
-- **Qihang Zhen**, Visiting PhD Student at NUS, Zhejiang University of Technology, China (2026.02–present). Supported by my OF-YIRG project.
-<!-- - **Xin Xiao**, Visiting PhD Student at NUS, Chongqing University, China (2026.02–present). Supported by my OF-YIRG project. -->
 
-**Undergraduate Students**
-- **Puhuan Zhu**, Faculty of Science, NUS (2025.10-present).
-- **Roger Lim Bo Zu**, School of Computing, NUS (2025.10-present).
-- **Hungyu Chen**, School of Computing, NUS (2024.04-2025.06).
+# 🎓 Mentoring
+- **Visiting PhD Students**
+  - **Qihang Zhen**, Zhejiang University of Technology, China. Visiting at NUS (2026.02–present). Supported by my OF-YIRG project.
+  <!-- - **Xin Xiao**, Visiting PhD Student at NUS, Chongqing University, China (2026.02–present). Supported by my OF-YIRG project. -->
+
+- **Undergraduate Students**
+  - **Puhuan Zhu**, Faculty of Science, NUS (2025.10-present).
+  - **Roger Lim Bo Zu**, School of Computing, NUS (2025.10-present).
+  - **Hungyu Chen**, School of Computing, NUS (2024.04-2025.06).
+
 
 # 📝 Publications (Selected) {#publications}
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
