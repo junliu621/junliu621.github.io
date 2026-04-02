@@ -33,16 +33,6 @@ My research interests focus on AI-driven computational structural biology, inclu
 
 
 # 🎓 Mentoring
-<!---
-- **Visiting PhD Students**
-  - **Qihang Zhen**, Zhejiang University of Technology, China. Visiting at NUS (2026.02–present). Supported by my OF-YIRG project.
-  <!-- - **Xin Xiao**, Visiting PhD Student at NUS, Chongqing University, China (2026.02–present). Supported by my OF-YIRG project. -->
-
-- **Undergraduate Students**
-  - **Puhuan Zhu**, Faculty of Science, NUS (2025.10-present).
-  - **Roger Lim Bo Zu**, School of Computing, NUS (2025.10-present).
-  - **Hungyu Chen**, School of Computing, NUS (2024.04-2025.06).
--->
 <div><strong>Visiting PhD Students</strong></div>
 <ul>
   <li><strong>Qihang Zhen</strong>, Zhejiang University of Technology, China. Visiting at NUS (2026.02–present). Supported by my OF-YIRG project.</li>
