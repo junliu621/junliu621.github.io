@@ -31,6 +31,9 @@ My research interests focus on AI-driven computational structural biology, inclu
 # 💰 Funding
 - Genome-Wide Antibody–Antigen Interaction Prediction Through Large Language Models. **National Medical Research Council (NMRC), Singapore — Open Fund – Young Individual Research Grant (OF-YIRG)**. Award No. MOH-OFYIRG25jan-0011. 01 Aug 2025 – 31 Jul 2028 (**PI**). 
 
+# 🎓 Mentoring
+- **Qihang Zhen**, Visiting PhD Student, Zhejiang University of Technology, China (2026.02–present). Supported by my OF-YIRG project.
+<!-- - **Xin Xiao**, Visiting PhD Student, Chongqing University, China (2026.02–present). Supported by my OF-YIRG project. -->
 
 # 📝 Publications (Selected) {#publications}
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
