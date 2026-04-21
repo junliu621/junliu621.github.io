@@ -23,7 +23,7 @@ My research interests focus on AI-driven computational structural biology, inclu
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉 Our work on protein–protein interaction, affinity, and interface prediction has been accepted in Nature Communications.
+- *2026.03*: &nbsp;🎉 <a href='https://news.nus.edu.sg/ai-reads-protein-pairs/'>Our work on protein-protein interaction modeling has been published in Nature Communications</a>.
 - *2025.09*: Invited to give a talk at the <a href='https://csi.nus.edu.sg/event/csi-research-meeting-5-sep-2025/'>CSI Research Meeting</a>, National University of Singapore (NUS).
 - *2025.06*: &nbsp;🎉 Received the <a href='https://www.nmrc.sg/grants/competitive-research-grants/of-yirg/'>OF-YIRG (Open Fund – Young Individual Research Grant)</a> award from the National Medical Research Council (NMRC) of Singapore — <a href='https://csi.nus.edu.sg/congratulations-on-the-nmrc-of-yirg-award-dr-jun-liu/'>my first independent research grant</a>.
 
