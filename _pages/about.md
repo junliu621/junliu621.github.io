@@ -150,7 +150,7 @@ My research interests focus on AI-driven computational structural biology, inclu
 
 # 🧾 Academic Service
 - Topic Editor, Frontiers Research Topic: Computer-Aided Approaches in Translational Structural Biology: Toward Future Biotechnological Applications (Frontiers in Chemical Biology).
-- Reviewer for Nature biotechnology, Nature machine intelligence, PloS one, etc.
+- Reviewer for Nature machine intelligence, Protein Science, TCBB, etc.
 
 <!--
 # 📖 Educations
