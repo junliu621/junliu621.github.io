@@ -35,8 +35,8 @@ My research interests focus on AI-driven computational structural biology, inclu
 # 🎓 Mentoring
 <div><strong>Visiting PhD Students</strong></div>
 <ul>
+  <li><strong>Xin Xiao</strong>, Chongqing University, China. Visiting at NUS. Supported by my OF-YIRG project (2026.05–present).</li>
   <li><strong>Qihang Zhen</strong>, Zhejiang University of Technology, China. Visiting at NUS, supported by my OF-YIRG project (2026.02–present).</li>
-  <li><strong>Xin Xiao</strong>, Chongqing University, China. Visiting at NUS (2026.05–present). Supported by my OF-YIRG project.</li>
 </ul>
 
 <div><strong>Undergraduate Students</strong></div>
