@@ -68,7 +68,7 @@ My research interests focus on AI-driven computational structural biology, inclu
 
 - **Jun Liu**, Dong Liu, Guangxing He, Guijun Zhang\*.
   Estimating protein complex model accuracy based on ultrafast shape recognition and deep learning in CASP15.
-  ***Proteins: Structure, Function, and Bioinformatics***, 91(12): 1861-1870, 2023. <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.26564'>[Paper]</a>
+  ***Proteins: Structure, Function, and Bioinformatics***, 91(12): 1861-1870, 2023. <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.26564'>[Paper]</a> [Invited CASP15 article]
 
 - **Jun Liu**, Kailong Zhao, Guijun Zhang\*.
   Improved model quality assessment using sequence and structural information by enhanced deep neural networks.
