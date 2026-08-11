@@ -24,7 +24,8 @@ author:
   name             : "Jun Liu"
   avatar           : "images/junl.jpg"
   bio              : "Research Scientist"
-  location         : "<a href='https://csi.nus.edu.sg/'>CSI</a>, <a href='https://nus.edu.sg/'>NUS</a>"
+  location         : "CSI, NUS"
+  # location         : "<a href='https://csi.nus.edu.sg/'>CSI</a>, <a href='https://nus.edu.sg/'>NUS</a>"
   # employer         : "Cancer Science Institute of Singapore, National University of Singapore"
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
