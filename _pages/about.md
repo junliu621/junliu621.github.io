@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Jun Liu (刘俊). I am currently a Postdoctoral Research Scientist at <a href='https://zhanggroup.org/'>ZhangLab</a>, Cancer Science Institute of Singapore (CSI), National University of Singapore (NUS), under the supervision of Prof. <a href='https://csi.nus.edu.sg/researcher/yang-zhang/'>Yang Zhang</a>. I received my Ph.D. in Control Science and Engineering from Zhejiang University of Technology (China), where I was advised by Prof. <a href='http://zhanglab-bioinf.com/people/guijunz/'>Guijun Zhang</a>. 
+Hi, I’m Jun Liu (刘俊). I am currently a Postdoctoral Research Scientist at <a href='https://zhanggroup.org/'>ZhangLab</a>, Cancer Science Institute of Singapore (<a href='https://csi.nus.edu.sg/'>CSI</a>), National University of Singapore (<a href='https://nus.edu.sg/'>NUS</a>), under the supervision of Prof. <a href='https://csi.nus.edu.sg/researcher/yang-zhang/'>Yang Zhang</a>. I received my Ph.D. in Control Science and Engineering from Zhejiang University of Technology (China), where I was advised by Prof. <a href='http://zhanglab-bioinf.com/people/guijunz/'>Guijun Zhang</a>. 
 
 My research interests focus on AI-driven computational structural biology, including protein structure prediction and model quality assessment, protein–protein interaction modeling, and therapeutic antibody design and engineering.
-
 
 # 🔥 News
 - *2026.06.27*: Invited to present a talk titled **Protein–Protein Interaction Modeling with Paired Protein Language Model** at the **4th National Academic Conference on Biomolecular Structure Prediction and Simulation** in Qingdao, China.
